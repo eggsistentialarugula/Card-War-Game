@@ -2,4 +2,4 @@ section4.py is the final project. section3.py and codingEx.py are just the steps
 
 The GUI is nothing fancy, it's just a simple game to play against the computer:)
 
-<img src="images/screenshot1.png" width="100">
+Check images folder to see output.
